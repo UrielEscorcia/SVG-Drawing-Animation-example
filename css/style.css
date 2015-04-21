@@ -1,4 +1,4 @@
--webkit-@keyframes dash{
+@-webkit-keyframes dash{
   from {
     stroke-dashoffset: 1000;
   }
